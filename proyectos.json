@@ -31,17 +31,17 @@
     },
     {
       "id": "quinta-normal",
-      "nombre": "Aves del Parque Quinta Normal y Alrededores",
-      "url": "",
-      "img": "",
-      "descripcion": "",
-      "lat": null,
-      "lng": null,
-      "region": "",
-      "regionLabel": "",
+      "nombre": "Avifauna del Parque Quinta Normal y Alrededores",
+      "url": "http://wikitaxa.wikidot.com/avifauna-del-parque-quinta-normal-y-alrededores",
+      "img": "http://wikitaxa.wikidot.com/avifauna-del-parque-quinta-normal-y-alrededores",
+      "descripcion": "Proyecto destinado a elaborar una lista de las especies presentes en el Parque Quinta Normal y áreas aledañas, para obtener una aproximación a su riqueza y abundancia.",
+      "lat": -33.44158680483626,
+      "lng": -70.68447871803606,
+      "region": "Región Metropolitana",
+      "regionLabel": "Metropolitana",
       "taxon": ["Aves"],
       "tipo": "muestreo",
-      "creada": ""
+      "creada": "2026-08-14"
     }
   ]
 }
