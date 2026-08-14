@@ -1,0 +1,47 @@
+{
+  "_comentario": "Este archivo es la base de datos de proyectos. Para agregar uno nuevo, copia un bloque completo (desde { hasta }), pegalo antes del cierre del array 'proyectos', cambia el 'id' por uno unico y rellena los datos. No borres ninguna coma. Campos 'especies' y 'estado' son opcionales: si no los sabes, simplemente omite esas dos lineas del bloque (no dejes '' vacio, bórralas). Revisa la guia adjunta si tienes dudas.",
+  "proyectos": [
+    {
+      "id": "sauce",
+      "nombre": "Biodiversidad de la Quebrada el Sauce",
+      "url": "",
+      "img": "",
+      "descripcion": "",
+      "lat": null,
+      "lng": null,
+      "region": "",
+      "regionLabel": "",
+      "taxon": [],
+      "tipo": "muestreo",
+      "creada": ""
+    },
+    {
+      "id": "purranque",
+      "nombre": "Inventario de la Biodiversidad de Purranque",
+      "url": "",
+      "img": "",
+      "descripcion": "",
+      "lat": null,
+      "lng": null,
+      "region": "",
+      "regionLabel": "",
+      "taxon": [],
+      "tipo": "muestreo",
+      "creada": ""
+    },
+    {
+      "id": "quinta-normal",
+      "nombre": "Aves del Parque Quinta Normal y Alrededores",
+      "url": "",
+      "img": "",
+      "descripcion": "",
+      "lat": null,
+      "lng": null,
+      "region": "",
+      "regionLabel": "",
+      "taxon": ["Aves"],
+      "tipo": "muestreo",
+      "creada": ""
+    }
+  ]
+}
