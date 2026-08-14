@@ -4,16 +4,16 @@
     {
       "id": "sauce",
       "nombre": "Biodiversidad de la Quebrada el Sauce",
-      "url": "",
-      "img": "",
-      "descripcion": "",
-      "lat": null,
-      "lng": null,
-      "region": "",
-      "regionLabel": "",
-      "taxon": [],
+      "url": "http://wikitaxa.wikidot.com/biodiversidad-de-la-quebrada-el-sauce",
+      "img": "https://live.staticflickr.com/65535/53066071056_95516f12bb_b.jpg",
+      "descripcion": "Este proyecto busca generar un inventario de las especies presentes en la "Quebrada el Sauce", basándose en el registro y recolección periódica de especímenes, principalmente de invertebrados, mediante diversas técnicas de muestreo cualitativo",
+      "lat": -34.820093,
+      "lng": -70.916260,
+      "region": "Región de O'Higgins",
+      "regionLabel": "O'Higgins",
+      "taxon": [Reino Animalia],
       "tipo": "muestreo",
-      "creada": ""
+      "creada": "2023-07-17"
     },
     {
       "id": "purranque",
