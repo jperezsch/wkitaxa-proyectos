@@ -10,7 +10,7 @@
       "lat": -34.820093,
       "lng": -70.916260,
       "region": "Región de O'Higgins",
-      "regionLabel": "O'Higgins",
+      "regionLabel": "Región de O'Higgins",
       "taxon": ["Reino Animalia"],
       "tipo": "muestreo",
       "creada": "2023-07-17"
@@ -38,7 +38,7 @@
       "lat": -33.44158680483626,
       "lng": -70.68447871803606,
       "region": "Región Metropolitana",
-      "regionLabel": "Metropolitana",
+      "regionLabel": "Región Metropolitana",
       "taxon": ["Aves"],
       "tipo": "muestreo",
       "creada": "2026-08-14"
